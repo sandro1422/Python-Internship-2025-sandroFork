@@ -15,7 +15,7 @@
 ### 2025 ზამთარი
 
 - [ლუკა ნაცვლიშვილი | Coffeewood Entertainment] (https://htmlpreview.github.io/?https://raw.githubusercontent.com/Luka929-del/Python-Internship-2025/main/Chapter03_Bootstrap/Projects/Luka%20Natsvlishvili/index.html)
-
+- [ალექსანდრე გარდავა | TechZone] [View](https://htmlpreview.github.io/?https://github.com/sandro1422/Python-Internship-2025/blob/main/Chapter03_Bootstrap/Projects/Aleksandre_Gardava/index.html)
 ## ინსტრუქცია:
 
 წინა თავში შესრულებულ ან სრულიად ახალ ვებ გვერდს გაუკეთეთ სტილი Bootstrap-ის გამოყენებით
