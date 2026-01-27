@@ -14,7 +14,7 @@
 
 ### 2025 ზამთარი
 - ლუკა ნაცვლიშვილი | [Coffeewood Entertainment] (https://github.com/Luka929-del/Python-Internship-2025/blob/main/Chapter04_Flask_Jinja/Projects/Luka%20Natsvlishvili/app.py)
-
+- [ალექსანდრე გარდავა | TechZone] | [View](https://github.com/sandro1422/Python-Internship-2025/blob/main/Chapter04_Flask_Jinja/Projects/Aleksandre_Gardava/app.py)
 ## ინსტრუქცია:
 
 1. წინა თავში შესრულებულ ან სრულიად ახალ ვებ გვერდს გაუკეთეთ საბაზისო გვერდი jinja2-სა და Bootstrap-ის გამოყენებით.
